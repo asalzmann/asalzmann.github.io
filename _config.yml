@@ -7,9 +7,9 @@
 
 # Site settings
 title: Aidan Salzmann
-email: asalzmann@berkeley.edu
+email: asalzmann
 description: Aspriring Scientist
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "asalzmann.github.io/about/" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  asalzmann
