@@ -2,7 +2,7 @@
 layout: page
 title : Me
 permalink: /me/
-redirect_from: ""
+redirect_from: "https://asalzmann.github.io"
 ---
 <br>
 
