@@ -8,11 +8,12 @@
 # Site settings
 title: Aidan Salzmann
 email: asalzmann@berkeley.edu
-description: I am a 3rd year CS student at UC Berkeley, currently in Copenhagen
+description: Aspriring Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: aidangs
+twitter_username: 
 github_username:  asalzmann
+linkedin_username: aidansalzmann
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
