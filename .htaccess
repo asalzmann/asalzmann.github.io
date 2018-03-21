@@ -1,0 +1,13 @@
+RewriteEngine On
+
+#if request is mydomain.com/something OR
+RewriteCond %{HTTP_HOST} ^asalzmann\.github\.io$ [OR]
+
+# or www.mydomain.com/something
+RewriteCond %{HTTP_HOST} ^www\.asalzmann\.github\.io$
+
+# but not mydomain.com/blog
+RewriteCond %{REQUEST_URI} !^/about/
+
+#change it to mydomain.com/blog/something
+RewriteRule (.*) /about/$1 [R=301]
