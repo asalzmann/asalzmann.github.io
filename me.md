@@ -19,4 +19,4 @@ I live in Indiana when I'm not at school, but am currently doing a semester abro
 Post graduation plans are still uncertain.
 
 
-Email me at [asalzmann@berkeley.edu](mailto:asalzmann@berkeley.edu), find my professional background on [LinkedIn](https://www.linkedin.com/in/aidan-salzmann-79496a123/ target="_blank), or take a look at my code on [GitHub](http://github.com/asalzmann). 
+Email me at [asalzmann@berkeley.edu](mailto:asalzmann@berkeley.edu), find my professional background on [LinkedIn](https://www.linkedin.com/in/aidansalzmann/ target="_blank), or take a look at my code on [GitHub](http://github.com/asalzmann). 
