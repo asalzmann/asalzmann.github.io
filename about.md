@@ -2,7 +2,7 @@
 layout: page
 title : ABOUT
 permalink: /about/
-redirect_from: "asalzmann.github.io"
+redirect_from: "https://asalzmann.github.io/"
 ---
 
 
