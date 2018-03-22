@@ -2,13 +2,13 @@
 layout: page
 title : ABOUT
 permalink: /about/
-redirect_from: ""
+redirect_from: "/me/"
 ---
-<br>
+
 
 Hello, I’m Aidan :)
 
-<br>
+
 
 I study computer science at UC Berkeley. 
 
