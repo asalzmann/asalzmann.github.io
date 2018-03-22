@@ -2,7 +2,7 @@
 layout: page
 title : ABOUT
 permalink: /about/
-redirect_from: "http://127.0.0.1:4000/"
+redirect_from: ""
 ---
 
 
